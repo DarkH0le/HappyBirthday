@@ -1,5 +1,5 @@
 # HappyBirthday
-This is the repository for my course Mastering Web Developer Interview Code. The full course is available on [LinkedIn Learning](http://bit.ly/2j2L8RN) and [Lynda.com](https://www.lynda.com/Web-Development-tutorials/Mastering-Web-Developer-Interview-Code/580663-2.html)
+This is the repository for my course Mastering Web Developer Interview Code. The full course is available on [Udacity](https://www.udacity.com/), Course: [Android Basic: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 
 [![Mastering Web Developer Interview Code](https://de.udacity.com/assets/iridium/images/shared/catalog-images/nd801.png)](https://www.udacity.com/course/android-basics-user-interface--ud834)
 
