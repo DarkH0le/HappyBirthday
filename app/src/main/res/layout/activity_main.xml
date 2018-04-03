@@ -19,7 +19,8 @@
         android:text="@string/hp_lyla"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
-        android:textSize="36sp"/>
+        android:textSize="36sp"
+        android:layout_margin="20dp"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -30,6 +31,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
-        android:text="@string/regards"/>
+        android:text="@string/regards"
+        android:layout_margin="20dp"/>
 
 </RelativeLayout>
